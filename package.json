@@ -1,0 +1,22 @@
+{
+  "name": "day16",
+  "version": "1.0.0",
+  "description": "day16",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZukoA/Day16.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZukoA/Day16/issues"
+  },
+  "homepage": "https://github.com/ZukoA/Day16#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
