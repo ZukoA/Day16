@@ -1,0 +1,67 @@
+body {
+    position: relative;
+    margin: auto;
+    width: 1000px;
+}
+.main-doc {
+    display: grid;
+    position: relative;
+    height: 200px;
+    width: auto;
+    margin: auto;
+    float: left;
+    border: 1px 1px 1px 0;
+}
+.main-section {
+    display: grid;
+    height: 800px;
+    width: auto;
+    float: left;
+    margin: 20px;
+}
+.header {
+
+}
+.header-img {
+    height: 50px;
+    width: 150px;
+}
+.navbar {
+
+}
+.introduction {
+
+}
+.values_types_and_operators {
+
+}
+.program_structure {
+
+}
+.functions {
+
+}
+.objects_and_arrays {
+
+}
+.higher_order_functions {
+
+}
+#introduction {
+
+}
+#values_types_and_operators {
+
+}
+#program_structure {
+
+}
+#functions {
+
+}
+#objects_and_arrays{
+
+}
+#higher_order_functions {
+
+}
